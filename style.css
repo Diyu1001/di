@@ -57,7 +57,7 @@ body {
 
 /* Home Section */
 #home {
-    background: url('images/b.jpg') no-repeat center center/cover;
+    background: url('b.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -86,7 +86,7 @@ body {
 
 /* Services Section */
 #client-section{
-    background: url('images/g.jpg') no-repeat center center/cover;
+    background: url('g.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -172,7 +172,7 @@ footer {
     padding: 20px;
 }
 #contact {
-    background: url('images/h.jpg') no-repeat center center/cover;
+    background: url('h.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     flex-direction: column;
